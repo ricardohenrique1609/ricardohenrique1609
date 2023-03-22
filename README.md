@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-living like golden
-<br>
-first
-<br>
-born  programmer
+-living like golden
+<br><br>
+-first
+<br><br>
+-born  programmer
 
 ## Ferramentas e tecnologias
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" widht="100" height="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" widht="160" height="160"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="130" height="130" />
+
+
 
 
           

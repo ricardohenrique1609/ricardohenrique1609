@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-living like golden
-<br>
-first
-<br>
-born  programmer
+-Senai
+<br><br>
+-Cursando desenvolvimentos De Sistemas
+<br><br>
+-Desenvolvedor de HTML e CSS
 
 ## Ferramentas e tecnologias
 

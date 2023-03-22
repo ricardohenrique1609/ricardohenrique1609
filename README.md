@@ -20,5 +20,9 @@ first
 <br>
 born  programmer
 
+## Ferramentas e tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+
 
 

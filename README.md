@@ -22,8 +22,9 @@ born  programmer
 
 ## Ferramentas e tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  widht="40" height="40"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" widht="100" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="100" height="100" />
 
 
           

@@ -79,15 +79,6 @@ Interfaces modernas, responsivas e sofisticadas, com foco em estética e experi�
 
 ---
 
-## 🎥 Projeto em destaque
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdpMmd5cG9qemM5ZGx3YWVsdHZ3bGZ4bWl5bmpsZXM3cnR3ZGgwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GKHF8fjKSRhNK/giphy.gif" width="600"/>
-  <br>
-  <i>Exemplo ilustrativo de automação ou sistema visual interativo</i>
-</div>
-
----
 
 ## 📊 GitHub Stats
 

@@ -1,41 +1,67 @@
-<!-- README.md do GitHub - Ricardo Henrique Ramos Silva -->
+# 👨‍💻 Ricardo Henrique Ramos Silva
 
-## 👋 About me
-
-👨‍💻 Analista e Desenvolvedor apaixonado por transformar dados em informação e construir aplicações web interativas.  
-📊 Domínio em análise de dados com **Python (Pandas, NumPy, Scikit-learn)**, **SQL (MySQL, PostgreSQL)** e **Power BI**.  
-🤖 Explorando o mundo de **Machine Learning** com algoritmos de classificação, regressão e clustering.  
-🌐 Desenvolvo aplicações web modernas com **React**, **JavaScript**, **Node.js** e **Next.js**.
+### Data Scientist | Web Developer | Machine Learning Enthusiast | Python Automation at Saint-Gobain
 
 ---
 
-## 🧰 Techs & Ferramentas
+## 🧠 Sobre mim
 
-<div style="display: flex; gap: 8px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+Sou um jovem Analista e Desenvolvedor apaixonado por tecnologia, dados e design inteligente. Atualmente atuo com automação em Python na **Saint-Gobain**, estudo **Data Science na FIAP**, e estou em constante evolução.
+
+Transformo dados em decisões e interfaces em experiências.
+
+---
+
+## 🛠️ Habilidades & Ferramentas
+
+**🔎 Análise e Visualização de Dados:**  
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL), Power BI, Excel.
+
+**🤖 Machine Learning:**  
+Classificação, regressão, clustering, modelos supervisionados e não supervisionados com Scikit-learn.
+
+**🌐 Desenvolvimento Web:**  
+JavaScript, TypeScript, React.js, Node.js, Next.js, HTML5, CSS3, TailwindCSS.
+
+**⚙️ Automação & Backend:**  
+Python (scripts, automações, bots), API REST, Express.js, Postman, Automation Anywhere.
+
+**📁 Bancos de Dados & Cloud:**  
+MySQL, PostgreSQL, Firebase, Supabase, integração com serviços backend e cloud.
+
+**🎨 UI/UX e Design Web:**  
+Projetos estéticos e responsivos, com foco em sofisticação e experiência do usuário.
+
+---
+
+## 🚀 Em andamento
+
+📚 Cursando **Data Science na FIAP**  
+🏢 Estagiário em **automação com Python na Saint-Gobain**    
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardohenrique1609&show_icons=true&theme=dracula&count_private=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohenrique1609&layout=compact&theme=dracula)
+
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🌍 Onde me encontrar
 
-| 📊 Estatísticas | 🔥 Linguagens mais usadas |
-|----------------|--------------------------|
-| ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardohenrique1609&show_icons=true&theme=radical&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohenrique1609&layout=compact&theme=radical) |
-
----
-
-## 🌐 Redes sociais:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-henrique-28939b275)  
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://curriculoricardo.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-henrique-28939b275)  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://curriculoricardo.netlify.app)  
+📧 ricardo.henrique6@icloud.com  
+📱 +55 (11) 97228-0314
 
 ---
 
-> “AUT VIAM INVENIAM AUT FACIAM.” – Ou encontrarei um caminho, ou farei um.
+> 🧭 *“Dados bem tratados. Códigos bem escritos. Resultados bem entregues.”*  
+
+

@@ -1,72 +1,81 @@
-# 👨‍💻 Ricardo Henrique Ramos Silva
+<h1 align="center">👨‍💻 Ricardo Henrique Ramos Silva</h1>
+<h3 align="center">Data Scientist | Web Developer | Machine Learning Enthusiast | Python Automation at Saint-Gobain</h3>
 
-### Data Scientist | Web Developer | Machine Learning Enthusiast | Python Automation at Saint-Gobain
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Construindo+soluções+com+dados+e+código;Automatizando+processos+com+Python+e+Power+BI;Buscando+resultados+com+propósito+e+precisão" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um jovem Analista e Desenvolvedor apaixonado por tecnologia, dados e design inteligente. Atualmente atuo como estagiário em automação na **Saint-Gobain**, desenvolvendo soluções com Python, Automation Anywhere e Power BI. Crio automações de processos e dashboards que ajudam a equipe a monitorar desempenho, ganhar eficiência e tomar decisões mais inteligentes.
+Sou um jovem Analista e Desenvolvedor apaixonado por tecnologia, dados e design inteligente.  
+Atualmente atuo como **estagiário em automação na Saint-Gobain**, desenvolvendo soluções com **Python, Automation Anywhere e Power BI**. Crio automações de processos e dashboards que ajudam a equipe a monitorar desempenho, ganhar eficiência e tomar decisões mais inteligentes.
 
-Também sou estudante de **Data Science na FIAP**, onde me aprofundo em **análise de dados, inteligência artificial, machine learning, visualização de dados e governança**.  
+Estudo **Data Science na FIAP**, onde aprofundo meus conhecimentos em **análise de dados, inteligência artificial, machine learning, visualização interativa e governança**.
 
-Transformo dados em decisões e interfaces em experiências.
+💡 Transformo dados em decisões. Código em impacto. Interfaces em experiências.
 
 ---
 
 ## 🛠️ Habilidades & Ferramentas
 
-**🔎 Análise e Visualização de Dados:**  
-Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL), Power BI, Excel.
+**🔎 Análise e Visualização de Dados**  
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) • SQL (MySQL, PostgreSQL) • Power BI • Excel
 
-**🤖 Machine Learning:**  
-Classificação, regressão, clustering, modelos supervisionados e não supervisionados com Scikit-learn.
+**🤖 Machine Learning**  
+Classificação • Regressão • Clustering • Modelos supervisionados e não supervisionados
 
-**🌐 Desenvolvimento Web:**  
-JavaScript, TypeScript, React.js, Node.js, Next.js, HTML5, CSS3, TailwindCSS.
+**🌐 Desenvolvimento Web**  
+JavaScript • TypeScript • React.js • Node.js • Next.js • HTML • CSS • TailwindCSS
 
-**⚙️ Automação & Backend:**  
-Python (scripts, automações, bots), API REST, Express.js, Postman, Automation Anywhere.
+**⚙️ Backend & Automação**  
+Python Scripts • Bots • API REST • Express.js • Postman • Automation Anywhere
 
-**📁 Bancos de Dados & Cloud:**  
-MySQL, PostgreSQL, Firebase, Supabase, integração com serviços backend e cloud.
+**📁 Banco de Dados & Cloud**  
+MySQL • PostgreSQL • Firebase • Supabase • Integração backend & serviços cloud
 
-**🎨 UI/UX e Design Web:**  
-Projetos estéticos e responsivos, com foco em sofisticação e experiência do usuário.
+**🎨 UI/UX & Design Web**  
+Interfaces modernas, responsivas e sofisticadas, com foco em estética e experiência
 
 ---
 
 ## 🚀 Em andamento
 
-📚 Cursando **Data Science na FIAP**  
-🏢 Estagiário em **automação com Python na Saint-Gobain**    
+🎓 **Data Science na FIAP**  
+📊 Aprofundando em Machine Learning, IA e Big Data  
+🏢 **Saint-Gobain** – Automatizando processos e criando dashboards com Python e Power BI  
 
 ---
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardohenrique1609&show_icons=true&theme=dracula&count_private=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohenrique1609&layout=compact&theme=dracula)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardohenrique1609&show_icons=true&theme=dracula&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohenrique1609&layout=compact&theme=dracula"/>
 
 </div>
----
 
 ---
 
-## 🌍 Onde me encontrar
+## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-henrique-28939b275)  
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://curriculoricardo.netlify.app)
+<div align="center">
+  <a href="https://linkedin.com/in/ricardo-henrique-28939b275" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://curriculoricardo.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+  📧 ricardo.henrique6@icloud.com  
+  <br>
+  📱 +55 (11) 97228-0314
+</p>
+
 ---
-📧 ricardo.henrique6@icloud.com  
-📱 +55 (11) 97228-0314
 
----
-
-> 🧭 *“Dados bem tratados. Códigos bem escritos. Resultados bem entregues.”*  
-
-
+<p align="center"><i><b>🚀 Construindo resultados com dados, código e propósito.</b></i></p>

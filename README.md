@@ -43,17 +43,22 @@ Projetos estéticos e responsivos, com foco em sofisticação e experiência do 
 
 ## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-henrique-28939b275)  
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://curriculoricardo.netlify.app)
 
+<div align="center">
+
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardohenrique1609&show_icons=true&theme=dracula&count_private=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohenrique1609&layout=compact&theme=dracula)
+
+</div>
 ---
 
 ---
 
 ## 🌍 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-henrique-28939b275)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://curriculoricardo.netlify.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-henrique-28939b275)  
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://curriculoricardo.netlify.app)
 📧 ricardo.henrique6@icloud.com  
 📱 +55 (11) 97228-0314
 

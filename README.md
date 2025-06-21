@@ -40,10 +40,11 @@ timeline
     title Minha Jornada Profissional
 
     2023 : Formação Técnica em ADS (SENAI)
-    2024 : Início da FIAP (Data Science)
+    2024 : Conclusão da Formação Técnica em ADS (SENAI)
     2025 : Estágio na Saint-Gobain | Projetos com Python e Power BI
-    2025 Q4 : Busca por vaga em Analista de Dados Júnior
-    2026 : Conclusão da FIAP e possível MBA em IA
+    2025 : Inicio da Graduação na FIAP (Data Science)
+    2026 : Conclusão da FIAP
+    2027 : Possível MBA em IA & Data Science
 ```
 
 ---

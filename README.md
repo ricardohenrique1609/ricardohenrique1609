@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist | Web Developer | Machine Learning Enthusiast | Python Automation at Saint-Gobain</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Construindo+soluções+com+dados+e+código;Automatizando+processos+com+Python+e+Power+BI;Buscando+resultados+com+propósito+e+precisão" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Construindo+com+dados+e+código;Automatizando+com+Python+e+Power+BI;Criando+valor+com+tecnologia+e+propósito" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,8 +21,15 @@ Estudo **Data Science na FIAP**, com foco em **análise de dados, inteligência 
 
 ## 🏷️ Instituições
 
-[![FIAP](https://img.shields.io/badge/FIAP-Ciência%20de%20Dados-E91D63?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.fiap.com.br)  
-[![Saint-Gobain](https://img.shields.io/badge/Saint--Gobain-Automação%20em%20Python-0057B8?style=for-the-badge&logo=python&logoColor=white)](https://www.saint-gobain.com/)
+<div align="center">
+  <a href="https://www.fiap.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/FIAP-Ciência%20de%20Dados-E91D63?style=for-the-badge&logo=academia&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="https://www.saint-gobain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Saint--Gobain-Automação%20em%20Python-0057B8?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</div>
 
 ---
 

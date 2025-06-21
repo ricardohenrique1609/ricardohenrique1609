@@ -7,6 +7,7 @@
 ## 🧠 Sobre mim
 
 Sou um jovem Analista e Desenvolvedor apaixonado por tecnologia, dados e design inteligente. Atualmente atuo como estagiário em automação na **Saint-Gobain**, desenvolvendo soluções com Python, Automation Anywhere e Power BI. Crio automações de processos e dashboards que ajudam a equipe a monitorar desempenho, ganhar eficiência e tomar decisões mais inteligentes.
+
 Também sou estudante de **Data Science na FIAP**, onde me aprofundo em **análise de dados, inteligência artificial, machine learning, visualização de dados e governança**.  
 Meu objetivo é unir tecnologia, lógica de programação e propósito para gerar resultados reais.
 Transformo dados em decisões e interfaces em experiências.

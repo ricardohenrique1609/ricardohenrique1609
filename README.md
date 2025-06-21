@@ -59,6 +59,7 @@ Projetos estéticos e responsivos, com foco em sofisticação e experiência do 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-henrique-28939b275)  
 [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://curriculoricardo.netlify.app)
+---
 📧 ricardo.henrique6@icloud.com  
 📱 +55 (11) 97228-0314
 

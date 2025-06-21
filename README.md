@@ -10,6 +10,7 @@ Sou um jovem Analista e Desenvolvedor apaixonado por tecnologia, dados e design 
 
 Também sou estudante de **Data Science na FIAP**, onde me aprofundo em **análise de dados, inteligência artificial, machine learning, visualização de dados e governança**.  
 Meu objetivo é unir tecnologia, lógica de programação e propósito para gerar resultados reais.
+
 Transformo dados em decisões e interfaces em experiências.
 
 ---

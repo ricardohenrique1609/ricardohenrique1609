@@ -35,13 +35,9 @@ Estudo **Data Science na FIAP**, com foco em **análise de dados, inteligência 
 
 ## 📈 Linha do Tempo
 
-## 📈 Linha do Tempo
-
 <div align="center">
   <img src="./linhadotempo.png" width="700" alt="Linha do Tempo Profissional" />
 </div>
-
-```
 
 ---
 
@@ -75,6 +71,15 @@ Interfaces modernas, responsivas e sofisticadas, com foco em estética e experi�
 
 ---
 
+## 🎥 Projeto em destaque
+
+<div align="center">
+  <img src="./analise_sentimentos_python.gif" width="600" alt="Análise de Sentimentos com Python" />
+  <br>
+  <i>Análise de sentimentos com Python e TextBlob – projeto pessoal de NLP</i>
+</div>
+
+---
 
 ## 📊 GitHub Stats
 

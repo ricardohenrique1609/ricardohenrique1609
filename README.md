@@ -74,7 +74,6 @@ Interfaces modernas, responsivas e sofisticadas, com foco em estética e experi�
 ## 🎥 Projeto em destaque
 
 <div align="center">
-  <img src="./analise_sentimentos_python.gif" width="600" alt="Análise de Sentimentos com Python" />
   <br>
   <i>Análise de sentimentos com Python e Machine Learning – projeto pessoal de NLP</i>
 </div>

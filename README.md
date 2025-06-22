@@ -35,16 +35,12 @@ Estudo **Data Science na FIAP**, com foco em **análise de dados, inteligência 
 
 ## 📈 Linha do Tempo
 
-```mermaid
-timeline
-    title Minha Jornada Profissional
+## 📈 Linha do Tempo
 
-    2023 : Formação Técnica em ADS (SENAI)
-    2024 : Conclusão da Formação Técnica em ADS (SENAI)
-    2025 : Estágio na Saint-Gobain | Projetos com Python e Power BI
-    2025 : Inicio da Graduação na FIAP (Data Science)
-    2026 : Conclusão da FIAP
-    2027 : Possível MBA em IA & Data Science
+<div align="center">
+  <img src="./linhadotempo.png" width="700" alt="Linha do Tempo Profissional" />
+</div>
+
 ```
 
 ---

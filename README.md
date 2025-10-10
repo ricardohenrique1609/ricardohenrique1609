@@ -63,9 +63,13 @@ JavaScript • React.js • Node.js • Next.js • HTML • CSS • TailwindCSS
 ## 🎥 Projeto em destaque
 
 <div align="center">
-  <br>
-  <i>Análise de sentimentos com Python e Machine Learning – projeto pessoal de NLP</i>
+  <a href="https://github.com/ricardohenrique1609/Fraude-detection" target="_blank">
+    <img src="https://img.shields.io/badge/🔎%20Detecção%20de%20Fraudes%20com%20Machine%20Learning-FF6600?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <br><br>
+  <i>Modelo de Machine Learning para identificação de transações suspeitas — aplicado à detecção de fraudes em dados financeiros.</i>
 </div>
+
 
 ---
 

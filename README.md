@@ -1,21 +1,21 @@
-
 <h1 align="center">👨‍💻 Ricardo Henrique Ramos Silva</h1>
-<h3 align="center">Data Scientist | Web Developer | Machine Learning Enthusiast | Python Automation at Saint-Gobain</h3>
+<h3 align="center">Data & IA Intern | Itaú Unibanco | AWS | Machine Learning | Dashboards & Automação</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Construindo+com+dados+e+código;Automatizando+com+Python+e+Power+BI;Criando+valor+com+tecnologia+e+propósito" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&color=FF6600&lines=Transformando+dados+em+inteligência;Automatizando+processos+com+Python+e+AWS;Criando+soluções+de+IA+com+propósito" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um jovem Analista e Desenvolvedor apaixonado por tecnologia, dados e design inteligente.  
-Atuo como **estagiário em automação na Saint-Gobain**, desenvolvendo soluções com **Python, Automation Anywhere e Power BI**. Crio automações de processos e dashboards que ajudam a equipe a monitorar desempenho, ganhar eficiência e tomar decisões mais inteligentes.
+Sou um jovem profissional apaixonado por **dados, automação e inteligência artificial**.  
+Atualmente, atuo como **estagiário em Ciência de Dados no Itaú Unibanco**, desenvolvendo **agentes inteligentes, automações de dados e dashboards** com **Python, AWS, Excel e Power BI**, voltados à **gestão de ativos e soluções IGA**.
 
-Estudo **Data Science na FIAP**, com foco em **análise de dados, inteligência artificial, machine learning, visualização interativa e governança**.
+Estudo **Data Science na FIAP**, com foco em **Machine Learning, Engenharia de Dados, BI e IA Generativa**.  
+Busco aplicar tecnologia com propósito — **transformando dados em valor real e decisões mais inteligentes**.
 
-💡 Transformo dados em decisões. Código em impacto. Interfaces em experiências.
+💡 Dados em ação. Código com impacto. Tecnologia com propósito.
 
 ---
 
@@ -26,17 +26,9 @@ Estudo **Data Science na FIAP**, com foco em **análise de dados, inteligência 
     <img src="https://img.shields.io/badge/FIAP-Ciência%20de%20Dados-E91D63?style=for-the-badge&logo=academia&logoColor=white" />
   </a>
   <br><br>
-  <a href="https://www.saint-gobain.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Saint--Gobain-Automação%20em%20Python-0057B8?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://www.itau.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Itaú_Unibanco-Ciência%20de%20Dados-FF6600?style=for-the-badge&logo=itau&logoColor=white" />
   </a>
-</div>
-
----
-
-## 📈 Linha do Tempo
-
-<div align="center">
-  <img src="./linhadotempo.png" width="700" alt="Linha do Tempo Profissional" />
 </div>
 
 ---
@@ -46,20 +38,17 @@ Estudo **Data Science na FIAP**, com foco em **análise de dados, inteligência 
 **🔎 Análise e Visualização de Dados**  
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) • SQL (MySQL, PostgreSQL) • Power BI • Excel
 
-**🤖 Machine Learning**  
-Classificação • Regressão • Clustering • Modelos supervisionados e não supervisionados
+**🤖 Inteligência Artificial e Machine Learning**  
+Modelagem preditiva • NLP • Automação com IA • Agentes inteligentes • IA Generativa
+
+**☁️ Cloud & Backend**  
+AWS • GCP • API REST • Express.js • Postman • Integração com serviços cloud
+
+**⚙️ Automação & RPA**  
+Python Scripts • Automation Anywhere • Bots • Processos inteligentes e escaláveis
 
 **🌐 Desenvolvimento Web**  
-JavaScript • TypeScript • React.js • Node.js • Next.js • HTML • CSS • TailwindCSS
-
-**⚙️ Backend & Automação**  
-Python Scripts • Bots • API REST • Express.js • Postman • Automation Anywhere
-
-**📁 Banco de Dados & Cloud**  
-MySQL • PostgreSQL • Firebase • Supabase • Integração backend & serviços cloud
-
-**🎨 UI/UX & Design Web**  
-Interfaces modernas, responsivas e sofisticadas, com foco em estética e experiência
+JavaScript • React.js • Node.js • Next.js • HTML • CSS • TailwindCSS
 
 ---
 
@@ -67,7 +56,7 @@ Interfaces modernas, responsivas e sofisticadas, com foco em estética e experi�
 
 🎓 **Data Science na FIAP**  
 📊 Machine Learning, IA e Big Data  
-🏢 **Saint-Gobain** – Automatizando processos e criando dashboards com Python e Power BI  
+🏦 **Itaú Unibanco** – Coletando e analisando dados, criando automações e agentes inteligentes com AWS e Python  
 
 ---
 
@@ -84,8 +73,8 @@ Interfaces modernas, responsivas e sofisticadas, com foco em estética e experi�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardohenrique1609&show_icons=true&theme=dracula&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohenrique1609&layout=compact&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardohenrique1609&show_icons=true&theme=transparent&title_color=FF6600&icon_color=004C97&text_color=FFFFFF&bg_color=0D1117&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohenrique1609&layout=compact&theme=transparent&title_color=FF6600&text_color=FFFFFF&bg_color=0D1117"/>
 
 </div>
 
@@ -95,10 +84,10 @@ Interfaces modernas, responsivas e sofisticadas, com foco em estética e experi�
 
 <div align="center">
   <a href="https://linkedin.com/in/ricardo-henrique-28939b275" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-004C97?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://curriculoricardo.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfólio-FF6600?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
 
@@ -110,5 +99,4 @@ Interfaces modernas, responsivas e sofisticadas, com foco em estética e experi�
 
 ---
 
-
-<p align="center"><i><b>🚀 Construindo resultados com dados, código e propósito.</b></i></p>
+<p align="center"><i><b>🚀 Construindo o futuro com dados, IA e propósito.</b></i></p>

@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/ricardo-henrique-28939b275" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://curriculoricardo.netlify.app" target="_blank">
+  <a href="https://ricardohenriqueportfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-FF6600?style=flat-square&logo=firefox&logoColor=white"/>
   </a>
   <a href="mailto:ricardo.henrique6@icloud.com">

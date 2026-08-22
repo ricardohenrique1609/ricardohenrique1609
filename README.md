@@ -118,7 +118,8 @@ Sistema de Machine Learning em produção desenvolvido no **Itaú Unibanco**: pr
 
 | Período | Empresa | Papel |
 |---|---|---|
-| Out 2025 – Presente | **Itaú Unibanco** — IGA | Estagiário em Ciência de Dados |
+| Mai 2026 – Presente | **Itaú Unibanco**  | Cientista de Dados |
+| Out 2025 – Mai 2026 | **Itaú Unibanco**  | Estagiário em Ciência de Dados |
 | Mai 2025 – Out 2025 | **Saint-Gobain Brasil** | Estagiário em Automação |
 
 ---

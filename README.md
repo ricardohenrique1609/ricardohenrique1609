@@ -20,7 +20,7 @@
 
 Sou **Data Scientist** com experiência prática em desenvolvimento e implantação de modelos de Machine Learning em produção, engenharia de dados em larga escala e aplicações com LLMs.
 
-Atualmente estagiário de Ciência de Dados no **Itaú Unibanco (IGA — Gestão de Ativos)**, onde liderei a construção de um sistema preditivo de ponta a ponta em produção com **85% de acurácia**, utilizando **PySpark, AWS Glue, S3, Athena e QuickSight**.
+Atualmente Cientista de Dados no **Itaú Unibanco (IGA — Gestão de Ativos)**, onde liderei a construção de um sistema preditivo de ponta a ponta em produção com **85% de acurácia**, utilizando **PySpark, AWS Glue, S3, Athena e QuickSight**.
 
 Estudo **Data Science na FIAP** (2025–2026) e sou movido por problemas que combinam dados, código e impacto real.
 
